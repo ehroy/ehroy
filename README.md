@@ -1,3 +1,6 @@
+ngapain dik
+
+
 - 👋 Hi, I’m @ehroy
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
