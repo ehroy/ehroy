@@ -1,13 +1,22 @@
-ngapain dik
+### Hi there, I'm Gidhan 👋
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=verssache&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ehroy)
+[![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://github.com/ehroy)
+[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/roy1280/) 
+A person that has a lot of interest especially in backend, security, etc！✨
+#### 📋 Current Activity
+- 📖 I’m Focus on Website Development;
+- 🤔 My Interests Are with Front-End & Backend Then I Decide to Do Fullstack;
+- 💼 I’m Pursuing a Bachelor's Degree in Informatics Engineering;
+----
+#### 📈 My GitHub Stats
+<p align='center'>
+  <a href="https://github.com/ehroy/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehroy&layout=compact" alt="verssache's github stats"/>
+  </a>
+  <a href="https://github.com/verssache/">
+  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=ehroy&hide=issues&count_private=true&show_icons=true" alt="verssache's github stats" />
+  </a>
+</p>
 
 
-- 👋 Hi, I’m @ehroy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ehroy/ehroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
