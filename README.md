@@ -1,7 +1,7 @@
 ### Hi there, I'm Ehroy 👋
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ehroy&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=ehroy)
-[![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://github.com/ehroy)
+[![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/ehroy__/)
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/roy1280/) 
 A person that has a lot of interest especially in backend, security, etc！✨
 #### 📋 Current Activity
