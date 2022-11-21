@@ -1,5 +1,5 @@
-### Hi there, I'm Gidhan 👋
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=verssache&color=blue)
+### Hi there, I'm Ehroy 👋
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ehroy&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=ehroy)
 [![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://github.com/ehroy)
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/roy1280/) 
