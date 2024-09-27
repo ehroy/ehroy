@@ -18,5 +18,8 @@ A person that has a lot of interest especially in backend, security, etc！✨
   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=ehroy&hide=issues&count_private=true&show_icons=true" alt="verssache's github stats" />
   </a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CourteousBin/CourteousBin/refs/heads/output/github-contribution-grid-snake.svg"/>
+</p>
 
 
