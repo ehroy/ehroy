@@ -12,10 +12,10 @@ A person that has a lot of interest especially in backend, security, etc！✨
 #### 📈 My GitHub Stats
 <p align='center'>
   <a href="https://github.com/ehroy/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehroy&layout=compact" alt="verssache's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehroy&layout=compact" alt="ehroy's github stats"/>
   </a>
-  <a href="https://github.com/verssache/">
-  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=ehroy&hide=issues&count_private=true&show_icons=true" alt="verssache's github stats" />
+  <a href="https://github.com/ehroy/">
+  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=ehroy&hide=issues&count_private=true&show_icons=true" alt="ehroy's github stats" />
   </a>
 </p>
 <p align="center">
